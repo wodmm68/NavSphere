@@ -156,9 +156,9 @@
     },
     {
       "id": "1761724945457",
-      "title": "媒体资讯",
-      "icon": "Coffee",
-      "description": "",
+      "title": "PT网站",
+      "icon": "Globe",
+      "description": "各种PT类网站",
       "enabled": true,
       "items": [
         {
